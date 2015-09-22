@@ -15,4 +15,4 @@ You can follow progress at [Project Euler](https://projecteuler.net/progress=The
 * Euler 6
 
 
-**last updated 9/21/15**
+*last updated 9/21/15*
