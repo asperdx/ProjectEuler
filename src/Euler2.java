@@ -14,7 +14,7 @@ public class Euler2 {
         while (x < 4000000){
             int c = x + y; //need a temp value
             sum+=(c % 2 == 0 ? c:0);
-            x = y; //simple fib o' nacci stuff 
+            x = y; //simple fib o' nacci stuff
             y = c;
         }
 
